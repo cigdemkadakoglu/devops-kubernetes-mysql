@@ -1,4 +1,4 @@
-name: AKS RabbitMQ Deployment  
+name: AKS MySQL Deployment  
 
 on: workflow_dispatch
 
